@@ -5,3 +5,4 @@ const user = {
     firstName: "Akhtar",
     lastName: "Hussain",
 };
+console.log(user);
